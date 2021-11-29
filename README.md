@@ -1,0 +1,1 @@
+# Grafana通过配置auth.proxy接入CAS登录

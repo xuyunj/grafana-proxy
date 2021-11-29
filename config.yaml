@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+cas:
+  url: "http://127.0.0.1/cas"
+
+grafana:
+  url: http://192.168.140.130:3000
+  username_key: X-WEBAUTH-USER
